@@ -1,3 +1,4 @@
 # varnamaps
 
-This is a test repository for VarnaMaps.
+
+This is a test.
